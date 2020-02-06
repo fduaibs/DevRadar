@@ -1,1 +1,1 @@
-Sistema resultante da Semana Omnistack 10.
+Projeto resultante da Semana Omnistack 10.
