@@ -19,7 +19,7 @@ const server = http.Server(app);
 
 setupWebsocket(server);
 
-mongoose.connect('mongodb+srv://duaibs:Trd!hdf95@cluster0-jr7op.mongodb.net/omni10?retryWrites=true&w=majority', {
+mongoose.connect('mongodb+srv://duaibs:<password>@cluster0-jr7op.mongodb.net/omni10?retryWrites=true&w=majority', {
     useNewUrlParser: true,
     useUnifiedTopology: true,
 });
